@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 🎗
+
+## Links
+
+- GitLab: https://gitlab.com/bemnlam/
+- Blog: https://bemnlam.github.io/
+- StackOverflow: https://stackoverflow.com/users/13742790/bemn

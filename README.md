@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ## Links
 
-- Blog: https://blog.eternalrecurrence.space
+- Blog: https://blog.lofibean.cc
 - GitLab: https://gitlab.com/bemnlam/
 - StackOverflow: https://stackoverflow.com/users/13742790/bemn

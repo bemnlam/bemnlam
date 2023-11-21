@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 🎗
 
-![status](https://github.com/bemnlam/bemnlam.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=master)
+[![blog.lofibean.cc](https://github.com/bemnlam/bemnlam.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/bemnlam/bemnlam.github.io/actions/workflows/hugo.yaml)
 
 ## Links
 
